@@ -1,0 +1,284 @@
+date,season,opponent,city,venue,toss_won,toss_decision,home_venue,rcb_win,previous_win_rate,recent5_win_rate,days_since_previous
+2008-04-18,2008,Kolkata Knight Riders,Bangalore,M Chinnaswamy Stadium,1,field,1,0,,,
+2008-04-20,2008,Mumbai Indians,Mumbai,Wankhede Stadium,0,bat,0,1,0.0,0.0,2.0
+2008-04-26,2008,Rajasthan Royals,Bangalore,M Chinnaswamy Stadium,0,field,1,0,0.5,0.5,6.0
+2008-04-28,2008,Chennai Super Kings,Bangalore,M Chinnaswamy Stadium,0,bat,1,0,0.3333333333333333,0.3333333333333333,2.0
+2008-04-30,2008,Delhi Daredevils,Delhi,Feroz Shah Kotla,1,field,0,0,0.25,0.25,2.0
+2008-05-03,2008,Deccan Chargers,Bangalore,M Chinnaswamy Stadium,0,field,1,1,0.2,0.2,3.0
+2008-05-05,2008,Kings XI Punjab,Bangalore,M Chinnaswamy Stadium,0,field,1,0,0.3333333333333333,0.4,2.0
+2008-05-08,2008,Kolkata Knight Riders,Kolkata,Eden Gardens,0,bat,0,0,0.2857142857142857,0.2,3.0
+2008-05-12,2008,Kings XI Punjab,Chandigarh,"Punjab Cricket Association Stadium, Mohali",1,bat,0,0,0.25,0.2,4.0
+2008-05-17,2008,Rajasthan Royals,Jaipur,Sawai Mansingh Stadium,1,field,0,0,0.2222222222222222,0.2,5.0
+2008-05-19,2008,Delhi Daredevils,Bangalore,M Chinnaswamy Stadium,0,field,1,0,0.2,0.2,2.0
+2008-05-21,2008,Chennai Super Kings,Chennai,"MA Chidambaram Stadium, Chepauk",1,bat,0,1,0.18181818181818182,0.0,2.0
+2008-05-25,2008,Deccan Chargers,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",0,bat,0,1,0.25,0.2,4.0
+2008-05-28,2008,Mumbai Indians,Bangalore,M Chinnaswamy Stadium,0,field,1,0,0.3076923076923077,0.4,3.0
+2009-04-18,2009,Rajasthan Royals,Cape Town,Newlands,1,bat,0,1,0.2857142857142857,0.4,325.0
+2009-04-20,2009,Chennai Super Kings,Port Elizabeth,St George's Park,0,bat,0,0,0.3333333333333333,0.6,2.0
+2009-04-22,2009,Deccan Chargers,Cape Town,Newlands,0,bat,0,0,0.3125,0.6,2.0
+2009-04-24,2009,Kings XI Punjab,Durban,Kingsmead,1,bat,0,0,0.29411764705882354,0.4,2.0
+2009-04-26,2009,Delhi Daredevils,Port Elizabeth,St George's Park,1,bat,0,0,0.2777777777777778,0.2,2.0
+2009-04-29,2009,Kolkata Knight Riders,Durban,Kingsmead,0,bat,0,1,0.2631578947368421,0.2,3.0
+2009-05-01,2009,Kings XI Punjab,Durban,Kingsmead,1,bat,0,1,0.3,0.2,2.0
+2009-05-03,2009,Mumbai Indians,Johannesburg,New Wanderers Stadium,0,bat,0,1,0.3333333333333333,0.4,2.0
+2009-05-07,2009,Rajasthan Royals,Centurion,SuperSport Park,0,field,0,0,0.36363636363636365,0.6,4.0
+2009-05-10,2009,Mumbai Indians,Port Elizabeth,St George's Park,0,bat,0,0,0.34782608695652173,0.6,3.0
+2009-05-12,2009,Kolkata Knight Riders,Centurion,SuperSport Park,1,field,0,1,0.3333333333333333,0.6,2.0
+2009-05-14,2009,Chennai Super Kings,Durban,Kingsmead,0,bat,0,1,0.36,0.6,2.0
+2009-05-19,2009,Delhi Daredevils,Johannesburg,New Wanderers Stadium,0,bat,0,1,0.38461538461538464,0.6,5.0
+2009-05-21,2009,Deccan Chargers,Centurion,SuperSport Park,1,bat,0,1,0.4074074074074074,0.6,2.0
+2009-05-23,2009,Chennai Super Kings,Johannesburg,New Wanderers Stadium,1,field,0,1,0.42857142857142855,0.8,2.0
+2009-05-24,2009,Deccan Chargers,Johannesburg,New Wanderers Stadium,1,field,0,0,0.4482758620689655,1.0,1.0
+2010-03-14,2010,Kolkata Knight Riders,Kolkata,Eden Gardens,0,field,0,0,0.43333333333333335,0.8,294.0
+2010-03-16,2010,Kings XI Punjab,Bangalore,M Chinnaswamy Stadium,0,bat,1,1,0.41935483870967744,0.6,2.0
+2010-03-18,2010,Rajasthan Royals,Bangalore,M Chinnaswamy Stadium,1,field,1,1,0.4375,0.6,2.0
+2010-03-20,2010,Mumbai Indians,Mumbai,Brabourne Stadium,0,bat,0,1,0.45454545454545453,0.6,2.0
+2010-03-23,2010,Chennai Super Kings,Bangalore,M Chinnaswamy Stadium,0,field,1,1,0.47058823529411764,0.6,3.0
+2010-03-25,2010,Delhi Daredevils,Bangalore,M Chinnaswamy Stadium,1,field,1,0,0.4857142857142857,0.8,2.0
+2010-03-31,2010,Chennai Super Kings,Chennai,"MA Chidambaram Stadium, Chepauk",1,bat,0,0,0.4722222222222222,0.8,6.0
+2010-04-02,2010,Kings XI Punjab,Chandigarh,"Punjab Cricket Association Stadium, Mohali",0,bat,0,1,0.4594594594594595,0.6,2.0
+2010-04-04,2010,Delhi Daredevils,Delhi,Feroz Shah Kotla,0,bat,0,0,0.47368421052631576,0.6,2.0
+2010-04-08,2010,Deccan Chargers,Bangalore,M Chinnaswamy Stadium,0,field,1,0,0.46153846153846156,0.4,4.0
+2010-04-10,2010,Kolkata Knight Riders,Bangalore,M Chinnaswamy Stadium,1,field,1,1,0.45,0.2,2.0
+2010-04-12,2010,Deccan Chargers,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",1,field,0,0,0.4634146341463415,0.4,2.0
+2010-04-14,2010,Rajasthan Royals,Jaipur,Sawai Mansingh Stadium,0,bat,0,1,0.4523809523809524,0.4,2.0
+2010-04-17,2010,Mumbai Indians,Bangalore,M Chinnaswamy Stadium,1,field,1,0,0.46511627906976744,0.4,3.0
+2010-04-21,2010,Mumbai Indians,Mumbai,Dr DY Patil Sports Academy,0,bat,0,0,0.45454545454545453,0.4,4.0
+2010-04-24,2010,Deccan Chargers,Mumbai,Dr DY Patil Sports Academy,0,bat,0,1,0.4444444444444444,0.4,3.0
+2011-04-09,2011,Kochi Tuskers Kerala,Kochi,Nehru Stadium,0,bat,0,1,0.45652173913043476,0.4,350.0
+2011-04-12,2011,Mumbai Indians,Bangalore,M Chinnaswamy Stadium,0,field,1,0,0.46808510638297873,0.6,3.0
+2011-04-14,2011,Deccan Chargers,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",1,field,0,0,0.4583333333333333,0.4,2.0
+2011-04-16,2011,Chennai Super Kings,Chennai,"MA Chidambaram Stadium, Chepauk",0,bat,0,0,0.4489795918367347,0.4,2.0
+2011-04-22,2011,Kolkata Knight Riders,Kolkata,Eden Gardens,1,field,0,1,0.44,0.4,6.0
+2011-04-26,2011,Delhi Daredevils,Delhi,Feroz Shah Kotla,1,field,0,1,0.45098039215686275,0.4,4.0
+2011-04-29,2011,Pune Warriors,Bangalore,M Chinnaswamy Stadium,0,field,1,1,0.46153846153846156,0.4,3.0
+2011-05-06,2011,Kings XI Punjab,Bangalore,M Chinnaswamy Stadium,0,field,1,1,0.4716981132075472,0.6,7.0
+2011-05-08,2011,Kochi Tuskers Kerala,Bangalore,M Chinnaswamy Stadium,0,bat,1,1,0.48148148148148145,0.8,2.0
+2011-05-11,2011,Rajasthan Royals,Jaipur,Sawai Mansingh Stadium,1,field,0,1,0.4909090909090909,1.0,3.0
+2011-05-14,2011,Kolkata Knight Riders,Bangalore,M Chinnaswamy Stadium,1,field,1,1,0.5,1.0,3.0
+2011-05-17,2011,Kings XI Punjab,Dharamsala,Himachal Pradesh Cricket Association Stadium,0,bat,0,0,0.5087719298245614,1.0,3.0
+2011-05-22,2011,Chennai Super Kings,Bangalore,M Chinnaswamy Stadium,1,field,1,1,0.5,0.8,5.0
+2011-05-24,2011,Chennai Super Kings,Mumbai,Wankhede Stadium,0,field,0,0,0.5084745762711864,0.8,2.0
+2011-05-27,2011,Mumbai Indians,Chennai,"MA Chidambaram Stadium, Chepauk",0,field,0,1,0.5,0.6,3.0
+2011-05-28,2011,Chennai Super Kings,Chennai,"MA Chidambaram Stadium, Chepauk",0,bat,0,0,0.5081967213114754,0.6,1.0
+2012-04-07,2012,Delhi Daredevils,Bangalore,M Chinnaswamy Stadium,0,field,1,1,0.5,0.4,315.0
+2012-04-10,2012,Kolkata Knight Riders,Bangalore,M Chinnaswamy Stadium,1,field,1,0,0.5079365079365079,0.6,3.0
+2012-04-12,2012,Chennai Super Kings,Chennai,"MA Chidambaram Stadium, Chepauk",1,bat,0,0,0.5,0.4,2.0
+2012-04-15,2012,Rajasthan Royals,Bangalore,M Chinnaswamy Stadium,0,bat,1,0,0.49230769230769234,0.4,3.0
+2012-04-17,2012,Pune Warriors,Bangalore,M Chinnaswamy Stadium,0,bat,1,1,0.48484848484848486,0.2,2.0
+2012-04-20,2012,Kings XI Punjab,Chandigarh,"Punjab Cricket Association Stadium, Mohali",1,field,0,1,0.4925373134328358,0.4,3.0
+2012-04-23,2012,Rajasthan Royals,Jaipur,Sawai Mansingh Stadium,0,field,0,1,0.5,0.4,3.0
+2012-04-28,2012,Kolkata Knight Riders,Kolkata,Eden Gardens,0,bat,0,0,0.5072463768115942,0.6,5.0
+2012-05-02,2012,Kings XI Punjab,Bangalore,M Chinnaswamy Stadium,0,field,1,0,0.5,0.6,4.0
+2012-05-06,2012,Deccan Chargers,Bangalore,M Chinnaswamy Stadium,1,field,1,1,0.49295774647887325,0.6,4.0
+2012-05-09,2012,Mumbai Indians,Mumbai,Wankhede Stadium,1,field,0,1,0.5,0.6,3.0
+2012-05-11,2012,Pune Warriors,Pune,Subrata Roy Sahara Stadium,0,field,0,1,0.5068493150684932,0.6,2.0
+2012-05-14,2012,Mumbai Indians,Bangalore,M Chinnaswamy Stadium,0,field,1,0,0.5135135135135135,0.6,3.0
+2012-05-17,2012,Delhi Daredevils,Delhi,Feroz Shah Kotla,0,field,0,1,0.5066666666666667,0.6,3.0
+2012-05-20,2012,Deccan Chargers,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",1,field,0,0,0.5131578947368421,0.8,3.0
+2013-04-04,2013,Mumbai Indians,Bangalore,M Chinnaswamy Stadium,0,field,1,1,0.5064935064935064,0.6,319.0
+2013-04-07,2013,Sunrisers Hyderabad,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",1,bat,0,0,0.5128205128205128,0.6,3.0
+2013-04-09,2013,Sunrisers Hyderabad,Bangalore,M Chinnaswamy Stadium,0,bat,1,1,0.5063291139240507,0.4,2.0
+2013-04-11,2013,Kolkata Knight Riders,Bangalore,M Chinnaswamy Stadium,1,field,1,1,0.5125,0.6,2.0
+2013-04-13,2013,Chennai Super Kings,Chennai,"MA Chidambaram Stadium, Chepauk",0,field,0,0,0.5185185185185185,0.6,2.0
+2013-04-16,2013,Delhi Daredevils,Bangalore,M Chinnaswamy Stadium,1,field,1,1,0.5121951219512195,0.6,3.0
+2013-04-20,2013,Rajasthan Royals,Bangalore,M Chinnaswamy Stadium,1,field,1,1,0.5180722891566265,0.6,4.0
+2013-04-23,2013,Pune Warriors,Bangalore,M Chinnaswamy Stadium,0,field,1,1,0.5238095238095238,0.8,3.0
+2013-04-27,2013,Mumbai Indians,Mumbai,Wankhede Stadium,0,bat,0,0,0.5294117647058824,0.8,4.0
+2013-04-29,2013,Rajasthan Royals,Jaipur,Sawai Mansingh Stadium,0,field,0,0,0.5232558139534884,0.6,2.0
+2013-05-02,2013,Pune Warriors,Pune,Subrata Roy Sahara Stadium,1,bat,0,1,0.5172413793103449,0.6,3.0
+2013-05-06,2013,Kings XI Punjab,Chandigarh,"Punjab Cricket Association Stadium, Mohali",0,field,0,0,0.5227272727272727,0.6,4.0
+2013-05-10,2013,Delhi Daredevils,Delhi,Feroz Shah Kotla,0,field,0,1,0.5168539325842697,0.4,4.0
+2013-05-12,2013,Kolkata Knight Riders,Ranchi,JSCA International Stadium Complex,0,field,0,0,0.5222222222222223,0.4,2.0
+2013-05-14,2013,Kings XI Punjab,Bangalore,M Chinnaswamy Stadium,0,field,1,0,0.5164835164835165,0.4,2.0
+2013-05-18,2013,Chennai Super Kings,Bangalore,M Chinnaswamy Stadium,0,field,1,1,0.5108695652173914,0.4,4.0
+2014-04-17,2014,Delhi Daredevils,,Sharjah Cricket Stadium,1,field,0,1,0.5161290322580645,0.4,334.0
+2014-04-19,2014,Mumbai Indians,,Dubai International Cricket Stadium,1,field,0,1,0.5212765957446809,0.6,2.0
+2014-04-24,2014,Kolkata Knight Riders,,Sharjah Cricket Stadium,1,field,0,0,0.5263157894736842,0.6,5.0
+2014-04-26,2014,Rajasthan Royals,Abu Dhabi,Sheikh Zayed Stadium,0,field,0,0,0.5208333333333334,0.6,2.0
+2014-04-28,2014,Kings XI Punjab,,Dubai International Cricket Stadium,0,field,0,0,0.5154639175257731,0.6,2.0
+2014-05-04,2014,Sunrisers Hyderabad,Bangalore,M Chinnaswamy Stadium,1,field,1,1,0.5102040816326531,0.4,6.0
+2014-05-06,2014,Mumbai Indians,Mumbai,Wankhede Stadium,1,field,0,0,0.5151515151515151,0.4,2.0
+2014-05-09,2014,Kings XI Punjab,Bangalore,M Chinnaswamy Stadium,1,field,1,0,0.51,0.2,3.0
+2014-05-11,2014,Rajasthan Royals,Bangalore,M Chinnaswamy Stadium,1,bat,1,0,0.504950495049505,0.2,2.0
+2014-05-13,2014,Delhi Daredevils,Bangalore,M Chinnaswamy Stadium,0,field,1,1,0.5,0.2,2.0
+2014-05-18,2014,Chennai Super Kings,Ranchi,JSCA International Stadium Complex,0,bat,0,1,0.5048543689320388,0.4,5.0
+2014-05-20,2014,Sunrisers Hyderabad,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",1,bat,0,0,0.5096153846153846,0.4,2.0
+2014-05-22,2014,Kolkata Knight Riders,Kolkata,Eden Gardens,1,field,0,0,0.5047619047619047,0.4,2.0
+2014-05-24,2014,Chennai Super Kings,Bangalore,M Chinnaswamy Stadium,0,field,1,0,0.5,0.4,2.0
+2015-04-11,2015,Kolkata Knight Riders,Kolkata,Eden Gardens,1,field,0,1,0.4953271028037383,0.4,322.0
+2015-04-13,2015,Sunrisers Hyderabad,Bangalore,M Chinnaswamy Stadium,0,field,1,0,0.5,0.4,2.0
+2015-04-19,2015,Mumbai Indians,Bangalore,M Chinnaswamy Stadium,1,field,1,0,0.4954128440366973,0.2,6.0
+2015-04-22,2015,Chennai Super Kings,Bangalore,M Chinnaswamy Stadium,1,field,1,0,0.4909090909090909,0.2,3.0
+2015-04-24,2015,Rajasthan Royals,Ahmedabad,"Sardar Patel Stadium, Motera",1,field,0,1,0.4864864864864865,0.2,2.0
+2015-04-26,2015,Delhi Daredevils,Delhi,Feroz Shah Kotla,1,field,0,1,0.49107142857142855,0.4,2.0
+2015-05-02,2015,Kolkata Knight Riders,Bangalore,M Chinnaswamy Stadium,1,field,1,1,0.49557522123893805,0.4,6.0
+2015-05-04,2015,Chennai Super Kings,Chennai,"MA Chidambaram Stadium, Chepauk",0,bat,0,0,0.5,0.6,2.0
+2015-05-06,2015,Kings XI Punjab,Bangalore,M Chinnaswamy Stadium,0,field,1,1,0.4956521739130435,0.6,2.0
+2015-05-10,2015,Mumbai Indians,Mumbai,Wankhede Stadium,1,bat,0,1,0.5,0.8,4.0
+2015-05-13,2015,Kings XI Punjab,Chandigarh,"Punjab Cricket Association Stadium, Mohali",1,field,0,0,0.5042735042735043,0.8,3.0
+2015-05-15,2015,Sunrisers Hyderabad,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",0,bat,0,1,0.5,0.6,2.0
+2015-05-20,2015,Rajasthan Royals,Pune,Maharashtra Cricket Association Stadium,1,bat,0,1,0.5042016806722689,0.6,5.0
+2015-05-22,2015,Chennai Super Kings,Ranchi,JSCA International Stadium Complex,0,field,0,0,0.5083333333333333,0.8,2.0
+2016-04-12,2016,Sunrisers Hyderabad,Bangalore,M Chinnaswamy Stadium,0,field,1,1,0.5041322314049587,0.6,326.0
+2016-04-17,2016,Delhi Daredevils,Bangalore,M Chinnaswamy Stadium,0,field,1,0,0.5081967213114754,0.6,5.0
+2016-04-20,2016,Mumbai Indians,Mumbai,Wankhede Stadium,0,field,0,0,0.5040650406504065,0.6,3.0
+2016-04-22,2016,Rising Pune Supergiants,Pune,Maharashtra Cricket Association Stadium,0,field,0,1,0.5,0.4,2.0
+2016-04-24,2016,Gujarat Lions,Rajkot,Saurashtra Cricket Association Stadium,1,bat,0,0,0.504,0.4,2.0
+2016-04-30,2016,Sunrisers Hyderabad,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",1,field,0,0,0.5,0.4,6.0
+2016-05-02,2016,Kolkata Knight Riders,Bangalore,M Chinnaswamy Stadium,0,field,1,0,0.49606299212598426,0.2,2.0
+2016-05-07,2016,Rising Pune Supergiants,Bangalore,M Chinnaswamy Stadium,1,field,1,1,0.4921875,0.2,5.0
+2016-05-09,2016,Kings XI Punjab,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",0,field,0,1,0.49612403100775193,0.4,2.0
+2016-05-11,2016,Mumbai Indians,Bangalore,M Chinnaswamy Stadium,0,field,1,0,0.5,0.4,2.0
+2016-05-14,2016,Gujarat Lions,Bangalore,M Chinnaswamy Stadium,0,field,1,1,0.4961832061068702,0.4,3.0
+2016-05-16,2016,Kolkata Knight Riders,Kolkata,Eden Gardens,1,field,0,1,0.5,0.6,2.0
+2016-05-18,2016,Kings XI Punjab,Bangalore,M Chinnaswamy Stadium,0,field,1,1,0.5037593984962406,0.8,2.0
+2016-05-22,2016,Delhi Daredevils,Raipur,Shaheed Veer Narayan Singh International Stadium,1,field,0,1,0.5074626865671642,0.8,4.0
+2016-05-24,2016,Gujarat Lions,Bangalore,M Chinnaswamy Stadium,1,field,1,1,0.5111111111111111,0.8,2.0
+2016-05-29,2016,Sunrisers Hyderabad,Bangalore,M Chinnaswamy Stadium,0,bat,1,0,0.5147058823529411,1.0,5.0
+2017-04-05,2017,Sunrisers Hyderabad,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",1,field,0,0,0.5109489051094891,0.8,311.0
+2017-04-08,2017,Delhi Daredevils,Bengaluru,M.Chinnaswamy Stadium,1,bat,1,1,0.5072463768115942,0.6,3.0
+2017-04-10,2017,Kings XI Punjab,Indore,Holkar Cricket Stadium,1,bat,0,0,0.5107913669064749,0.6,2.0
+2017-04-14,2017,Mumbai Indians,Bangalore,M Chinnaswamy Stadium,0,field,1,0,0.5071428571428571,0.4,4.0
+2017-04-16,2017,Rising Pune Supergiant,Bangalore,M Chinnaswamy Stadium,1,field,1,0,0.5035460992907801,0.2,2.0
+2017-04-18,2017,Gujarat Lions,Rajkot,Saurashtra Cricket Association Stadium,0,field,0,1,0.5,0.2,2.0
+2017-04-23,2017,Kolkata Knight Riders,Kolkata,Eden Gardens,1,field,0,0,0.5034965034965035,0.4,5.0
+2017-04-27,2017,Gujarat Lions,Bangalore,M Chinnaswamy Stadium,0,field,1,0,0.5,0.2,4.0
+2017-04-29,2017,Rising Pune Supergiant,Pune,Maharashtra Cricket Association Stadium,1,field,0,0,0.496551724137931,0.2,2.0
+2017-05-01,2017,Mumbai Indians,Mumbai,Wankhede Stadium,1,bat,0,0,0.4931506849315068,0.2,2.0
+2017-05-05,2017,Kings XI Punjab,Bangalore,M Chinnaswamy Stadium,1,field,1,0,0.4897959183673469,0.2,4.0
+2017-05-07,2017,Kolkata Knight Riders,Bangalore,M Chinnaswamy Stadium,0,field,1,0,0.4864864864864865,0.0,2.0
+2017-05-14,2017,Delhi Daredevils,Delhi,Feroz Shah Kotla,1,bat,0,1,0.48322147651006714,0.0,7.0
+2018-04-08,2018,Kolkata Knight Riders,Kolkata,Eden Gardens,0,field,0,0,0.4866666666666667,0.2,329.0
+2018-04-13,2018,Kings XI Punjab,Bengaluru,M.Chinnaswamy Stadium,1,field,1,1,0.48344370860927155,0.2,5.0
+2018-04-15,2018,Rajasthan Royals,Bengaluru,M.Chinnaswamy Stadium,1,field,1,0,0.4868421052631579,0.4,2.0
+2018-04-17,2018,Mumbai Indians,Mumbai,Wankhede Stadium,1,field,0,0,0.48366013071895425,0.4,2.0
+2018-04-21,2018,Delhi Daredevils,Bengaluru,M.Chinnaswamy Stadium,1,field,1,1,0.4805194805194805,0.4,4.0
+2018-04-25,2018,Chennai Super Kings,Bengaluru,M.Chinnaswamy Stadium,0,field,1,0,0.4838709677419355,0.4,4.0
+2018-04-29,2018,Kolkata Knight Riders,Bengaluru,M.Chinnaswamy Stadium,0,field,1,0,0.4807692307692308,0.4,4.0
+2018-05-01,2018,Mumbai Indians,Bengaluru,M.Chinnaswamy Stadium,0,field,1,1,0.47770700636942676,0.2,2.0
+2018-05-05,2018,Chennai Super Kings,Pune,Maharashtra Cricket Association Stadium,0,field,0,0,0.4810126582278481,0.4,4.0
+2018-05-07,2018,Sunrisers Hyderabad,Hyderabad,Rajiv Gandhi International Stadium,1,field,0,0,0.4779874213836478,0.4,2.0
+2018-05-12,2018,Delhi Daredevils,Delhi,Arun Jaitley Stadium,1,field,0,1,0.475,0.2,5.0
+2018-05-14,2018,Kings XI Punjab,Indore,Holkar Cricket Stadium,1,field,0,1,0.4782608695652174,0.4,2.0
+2018-05-17,2018,Sunrisers Hyderabad,Bengaluru,M.Chinnaswamy Stadium,0,field,1,1,0.48148148148148145,0.6,3.0
+2018-05-19,2018,Rajasthan Royals,Jaipur,Sawai Mansingh Stadium,0,bat,0,0,0.48466257668711654,0.6,2.0
+2019-03-23,2019,Chennai Super Kings,Chennai,MA Chidambaram Stadium,0,field,0,0,0.4817073170731707,0.6,308.0
+2019-03-28,2019,Mumbai Indians,Bengaluru,M.Chinnaswamy Stadium,1,field,1,0,0.47878787878787876,0.6,5.0
+2019-03-31,2019,Sunrisers Hyderabad,Hyderabad,Rajiv Gandhi International Stadium,1,field,0,0,0.4759036144578313,0.4,3.0
+2019-04-02,2019,Rajasthan Royals,Jaipur,Sawai Mansingh Stadium,0,field,0,0,0.47305389221556887,0.2,2.0
+2019-04-05,2019,Kolkata Knight Riders,Bengaluru,M.Chinnaswamy Stadium,0,field,1,0,0.47023809523809523,0.0,3.0
+2019-04-07,2019,Delhi Capitals,Bengaluru,M.Chinnaswamy Stadium,0,field,1,0,0.46745562130177515,0.0,2.0
+2019-04-13,2019,Kings XI Punjab,Chandigarh,Punjab Cricket Association IS Bindra Stadium,1,field,0,1,0.4647058823529412,0.0,6.0
+2019-04-15,2019,Mumbai Indians,Mumbai,Wankhede Stadium,0,field,0,0,0.4678362573099415,0.2,2.0
+2019-04-19,2019,Kolkata Knight Riders,Kolkata,Eden Gardens,0,field,0,1,0.46511627906976744,0.2,4.0
+2019-04-21,2019,Chennai Super Kings,Bengaluru,M.Chinnaswamy Stadium,0,field,1,1,0.4682080924855491,0.4,2.0
+2019-04-24,2019,Kings XI Punjab,Bengaluru,M.Chinnaswamy Stadium,0,field,1,1,0.47126436781609193,0.6,3.0
+2019-04-28,2019,Delhi Capitals,Delhi,Arun Jaitley Stadium,0,bat,0,0,0.4742857142857143,0.8,4.0
+2019-05-04,2019,Sunrisers Hyderabad,Bengaluru,M.Chinnaswamy Stadium,1,field,1,1,0.4715909090909091,0.6,6.0
+2020-09-21,2020,Sunrisers Hyderabad,,Dubai International Cricket Stadium,0,field,0,1,0.4745762711864407,0.8,506.0
+2020-09-24,2020,Kings XI Punjab,,Dubai International Cricket Stadium,1,field,0,0,0.47752808988764045,0.8,3.0
+2020-09-28,2020,Mumbai Indians,,Dubai International Cricket Stadium,0,field,0,1,0.4748603351955307,0.6,4.0
+2020-10-03,2020,Rajasthan Royals,Abu Dhabi,Sheikh Zayed Stadium,0,bat,0,1,0.4777777777777778,0.6,5.0
+2020-10-05,2020,Delhi Capitals,,Dubai International Cricket Stadium,1,field,0,0,0.48066298342541436,0.8,2.0
+2020-10-10,2020,Chennai Super Kings,,Dubai International Cricket Stadium,1,bat,0,1,0.47802197802197804,0.6,5.0
+2020-10-12,2020,Kolkata Knight Riders,,Sharjah Cricket Stadium,1,bat,0,1,0.4808743169398907,0.6,2.0
+2020-10-15,2020,Kings XI Punjab,,Sharjah Cricket Stadium,1,bat,0,0,0.483695652173913,0.8,3.0
+2020-10-17,2020,Rajasthan Royals,,Dubai International Cricket Stadium,0,bat,0,1,0.4810810810810811,0.6,2.0
+2020-10-21,2020,Kolkata Knight Riders,Abu Dhabi,Sheikh Zayed Stadium,0,bat,0,1,0.4838709677419355,0.6,4.0
+2020-10-25,2020,Chennai Super Kings,,Dubai International Cricket Stadium,1,bat,0,0,0.48663101604278075,0.8,4.0
+2020-10-28,2020,Mumbai Indians,Abu Dhabi,Sheikh Zayed Stadium,0,field,0,0,0.48404255319148937,0.6,3.0
+2020-10-31,2020,Sunrisers Hyderabad,,Sharjah Cricket Stadium,0,field,0,0,0.48148148148148145,0.4,3.0
+2020-11-02,2020,Delhi Capitals,Abu Dhabi,Sheikh Zayed Stadium,0,field,0,0,0.4789473684210526,0.4,2.0
+2020-11-06,2020,Sunrisers Hyderabad,Abu Dhabi,Sheikh Zayed Stadium,0,field,0,0,0.47643979057591623,0.2,4.0
+2021-04-09,2021,Mumbai Indians,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai",1,field,0,1,0.4739583333333333,0.0,154.0
+2021-04-14,2021,Sunrisers Hyderabad,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai",0,field,0,1,0.47668393782383417,0.2,5.0
+2021-04-18,2021,Kolkata Knight Riders,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai",1,bat,0,1,0.4793814432989691,0.4,4.0
+2021-04-22,2021,Rajasthan Royals,Mumbai,"Wankhede Stadium, Mumbai",1,field,0,1,0.48205128205128206,0.6,4.0
+2021-04-25,2021,Chennai Super Kings,Mumbai,"Wankhede Stadium, Mumbai",0,bat,0,0,0.4846938775510204,0.8,3.0
+2021-04-27,2021,Delhi Capitals,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",0,field,0,1,0.48223350253807107,0.8,2.0
+2021-04-30,2021,Punjab Kings,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",1,field,0,0,0.48484848484848486,0.8,3.0
+2021-09-20,2021,Kolkata Knight Riders,Abu Dhabi,"Zayed Cricket Stadium, Abu Dhabi",1,bat,0,0,0.4824120603015075,0.6,143.0
+2021-09-24,2021,Chennai Super Kings,Sharjah,Sharjah Cricket Stadium,0,field,0,0,0.48,0.4,4.0
+2021-09-26,2021,Mumbai Indians,Dubai,Dubai International Cricket Stadium,0,field,0,1,0.47761194029850745,0.2,2.0
+2021-09-29,2021,Rajasthan Royals,Dubai,Dubai International Cricket Stadium,1,field,0,1,0.4801980198019802,0.4,3.0
+2021-10-03,2021,Punjab Kings,Sharjah,Sharjah Cricket Stadium,1,bat,0,1,0.4827586206896552,0.4,4.0
+2021-10-06,2021,Sunrisers Hyderabad,Abu Dhabi,"Zayed Cricket Stadium, Abu Dhabi",1,field,0,0,0.4852941176470588,0.6,3.0
+2021-10-08,2021,Delhi Capitals,Dubai,Dubai International Cricket Stadium,1,field,0,1,0.48292682926829267,0.6,2.0
+2021-10-11,2021,Kolkata Knight Riders,Sharjah,Sharjah Cricket Stadium,1,bat,0,0,0.4854368932038835,0.8,3.0
+2022-03-27,2022,Punjab Kings,Mumbai,"Dr DY Patil Sports Academy, Mumbai",0,field,0,0,0.4830917874396135,0.6,167.0
+2022-03-30,2022,Kolkata Knight Riders,Mumbai,"Dr DY Patil Sports Academy, Mumbai",1,field,0,1,0.4807692307692308,0.4,3.0
+2022-04-05,2022,Rajasthan Royals,Mumbai,"Wankhede Stadium, Mumbai",1,field,0,1,0.48325358851674644,0.4,6.0
+2022-04-09,2022,Mumbai Indians,Pune,"Maharashtra Cricket Association Stadium, Pune",1,field,0,1,0.4857142857142857,0.6,4.0
+2022-04-12,2022,Chennai Super Kings,Mumbai,"Dr DY Patil Sports Academy, Mumbai",1,field,0,0,0.4881516587677725,0.6,3.0
+2022-04-16,2022,Delhi Capitals,Mumbai,"Wankhede Stadium, Mumbai",0,field,0,1,0.4858490566037736,0.6,4.0
+2022-04-19,2022,Lucknow Super Giants,Mumbai,"Dr DY Patil Sports Academy, Mumbai",0,field,0,1,0.48826291079812206,0.8,3.0
+2022-04-23,2022,Sunrisers Hyderabad,Mumbai,"Brabourne Stadium, Mumbai",0,field,0,0,0.49065420560747663,0.8,4.0
+2022-04-26,2022,Rajasthan Royals,Pune,"Maharashtra Cricket Association Stadium, Pune",1,field,0,0,0.4883720930232558,0.6,3.0
+2022-04-30,2022,Gujarat Titans,Mumbai,"Brabourne Stadium, Mumbai",1,bat,0,0,0.4861111111111111,0.4,4.0
+2022-05-04,2022,Chennai Super Kings,Pune,"Maharashtra Cricket Association Stadium, Pune",0,field,0,1,0.4838709677419355,0.4,4.0
+2022-05-08,2022,Sunrisers Hyderabad,Mumbai,"Wankhede Stadium, Mumbai",1,bat,0,1,0.48623853211009177,0.4,4.0
+2022-05-13,2022,Punjab Kings,Mumbai,"Brabourne Stadium, Mumbai",1,field,0,0,0.4885844748858447,0.4,5.0
+2022-05-19,2022,Gujarat Titans,Mumbai,"Wankhede Stadium, Mumbai",0,bat,0,1,0.4863636363636364,0.4,6.0
+2022-05-25,2022,Lucknow Super Giants,Kolkata,"Eden Gardens, Kolkata",0,field,0,1,0.48868778280542985,0.6,6.0
+2022-05-27,2022,Rajasthan Royals,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",0,field,0,0,0.49099099099099097,0.8,2.0
+2023-04-02,2023,Mumbai Indians,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",1,field,1,1,0.48878923766816146,0.6,310.0
+2023-04-06,2023,Kolkata Knight Riders,Kolkata,"Eden Gardens, Kolkata",1,field,0,0,0.49107142857142855,0.6,4.0
+2023-04-10,2023,Lucknow Super Giants,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",0,field,1,0,0.4888888888888889,0.6,4.0
+2023-04-15,2023,Delhi Capitals,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",0,field,1,1,0.48672566371681414,0.4,5.0
+2023-04-17,2023,Chennai Super Kings,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",1,field,1,0,0.4889867841409692,0.4,2.0
+2023-04-20,2023,Punjab Kings,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",0,field,0,1,0.4868421052631579,0.4,3.0
+2023-04-23,2023,Rajasthan Royals,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",0,field,1,1,0.4890829694323144,0.4,3.0
+2023-04-26,2023,Kolkata Knight Riders,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",1,field,1,0,0.49130434782608695,0.6,3.0
+2023-05-01,2023,Lucknow Super Giants,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,bat,0,1,0.48917748917748916,0.6,5.0
+2023-05-06,2023,Delhi Capitals,Delhi,"Arun Jaitley Stadium, Delhi",1,bat,0,0,0.49137931034482757,0.6,5.0
+2023-05-09,2023,Mumbai Indians,Mumbai,"Wankhede Stadium, Mumbai",0,field,0,0,0.4892703862660944,0.6,3.0
+2023-05-14,2023,Rajasthan Royals,Jaipur,"Sawai Mansingh Stadium, Jaipur",1,bat,0,1,0.48717948717948717,0.4,5.0
+2023-05-18,2023,Sunrisers Hyderabad,Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,field,0,1,0.48936170212765956,0.4,4.0
+2023-05-21,2023,Gujarat Titans,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",0,field,1,0,0.4915254237288136,0.6,3.0
+2024-03-22,2024,Chennai Super Kings,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai",1,bat,0,0,0.48945147679324896,0.4,306.0
+2024-03-25,2024,Punjab Kings,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",1,field,1,1,0.48739495798319327,0.4,3.0
+2024-03-29,2024,Kolkata Knight Riders,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",0,field,1,0,0.4895397489539749,0.6,4.0
+2024-04-02,2024,Lucknow Super Giants,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",1,field,1,0,0.4875,0.4,4.0
+2024-04-06,2024,Rajasthan Royals,Jaipur,"Sawai Mansingh Stadium, Jaipur",0,field,0,0,0.4854771784232365,0.2,4.0
+2024-04-11,2024,Mumbai Indians,Mumbai,"Wankhede Stadium, Mumbai",0,field,0,0,0.4834710743801653,0.2,5.0
+2024-04-15,2024,Sunrisers Hyderabad,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",1,field,1,0,0.48148148148148145,0.2,4.0
+2024-04-21,2024,Kolkata Knight Riders,Kolkata,"Eden Gardens, Kolkata",1,field,0,0,0.47950819672131145,0.0,6.0
+2024-04-25,2024,Sunrisers Hyderabad,Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,bat,0,1,0.4775510204081633,0.0,4.0
+2024-04-28,2024,Gujarat Titans,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",1,field,0,1,0.4796747967479675,0.2,3.0
+2024-05-04,2024,Gujarat Titans,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",1,field,1,1,0.4817813765182186,0.4,6.0
+2024-05-09,2024,Punjab Kings,Dharamsala,"Himachal Pradesh Cricket Association Stadium, Dharamsala",0,field,0,1,0.4838709677419355,0.6,5.0
+2024-05-12,2024,Delhi Capitals,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",0,field,1,1,0.4859437751004016,0.8,3.0
+2024-05-18,2024,Chennai Super Kings,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",0,field,1,1,0.488,1.0,6.0
+2024-05-22,2024,Rajasthan Royals,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",0,field,0,0,0.4900398406374502,1.0,4.0
+2025-03-22,2025,Kolkata Knight Riders,Kolkata,"Eden Gardens, Kolkata",1,field,0,1,0.4880952380952381,0.8,304.0
+2025-03-28,2025,Chennai Super Kings,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai",0,field,0,1,0.4901185770750988,0.8,6.0
+2025-04-02,2025,Gujarat Titans,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",0,field,1,0,0.4921259842519685,0.8,5.0
+2025-04-07,2025,Mumbai Indians,Mumbai,"Wankhede Stadium, Mumbai",0,field,0,1,0.49019607843137253,0.6,5.0
+2025-04-10,2025,Delhi Capitals,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",0,field,1,0,0.4921875,0.6,3.0
+2025-04-13,2025,Rajasthan Royals,Jaipur,"Sawai Mansingh Stadium, Jaipur",1,field,0,1,0.490272373540856,0.6,3.0
+2025-04-18,2025,Punjab Kings,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",0,field,1,0,0.49224806201550386,0.6,5.0
+2025-04-20,2025,Punjab Kings,Mohali,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",1,field,0,1,0.49034749034749037,0.4,2.0
+2025-04-24,2025,Rajasthan Royals,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",0,field,1,1,0.49230769230769234,0.6,4.0
+2025-04-27,2025,Delhi Capitals,Delhi,"Arun Jaitley Stadium, Delhi",1,field,0,1,0.4942528735632184,0.6,3.0
+2025-05-03,2025,Chennai Super Kings,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",0,field,1,1,0.4961832061068702,0.8,6.0
+2025-05-23,2025,Sunrisers Hyderabad,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,field,0,0,0.49809885931558934,0.8,20.0
+2025-05-27,2025,Lucknow Super Giants,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,field,0,1,0.4962121212121212,0.8,4.0
+2025-05-29,2025,Punjab Kings,New Chandigarh,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",1,field,0,1,0.4981132075471698,0.8,2.0
+2025-06-03,2025,Punjab Kings,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",0,field,0,1,0.5,0.8,5.0
+2026-03-28,2026,Sunrisers Hyderabad,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",1,field,1,1,0.50187265917603,0.8,298.0
+2026-04-05,2026,Chennai Super Kings,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",0,field,1,1,0.503731343283582,0.8,8.0
+2026-04-10,2026,Rajasthan Royals,Guwahati,"Barsapara Cricket Stadium, Guwahati",0,field,0,0,0.5055762081784386,1.0,5.0
+2026-04-12,2026,Mumbai Indians,Mumbai,"Wankhede Stadium, Mumbai",0,field,0,1,0.5037037037037037,0.8,2.0
+2026-04-15,2026,Lucknow Super Giants,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",1,field,1,1,0.5055350553505535,0.8,3.0
+2026-04-18,2026,Delhi Capitals,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",0,field,1,0,0.5073529411764706,0.8,3.0
+2026-04-24,2026,Gujarat Titans,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",1,field,1,1,0.5054945054945055,0.6,6.0
+2026-04-27,2026,Delhi Capitals,Delhi,"Arun Jaitley Stadium, Delhi",1,field,0,1,0.5072992700729927,0.6,3.0
+2026-04-30,2026,Gujarat Titans,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",0,field,0,0,0.509090909090909,0.8,3.0
+2026-05-07,2026,Lucknow Super Giants,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,field,0,0,0.5072463768115942,0.6,7.0
+2026-05-10,2026,Mumbai Indians,Raipur,"Shaheed Veer Narayan Singh International Stadium, Raipur",1,field,0,1,0.5054151624548736,0.4,3.0
+2026-05-13,2026,Kolkata Knight Riders,Raipur,"Shaheed Veer Narayan Singh International Stadium, Raipur",1,field,0,1,0.5071942446043165,0.6,3.0
+2026-05-17,2026,Punjab Kings,Dharamsala,"Himachal Pradesh Cricket Association Stadium, Dharamsala",0,field,0,1,0.5089605734767025,0.6,4.0
+2026-05-22,2026,Sunrisers Hyderabad,Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",0,bat,0,0,0.5107142857142857,0.6,5.0
+2026-05-26,2026,Gujarat Titans,Dharamsala,"Himachal Pradesh Cricket Association Stadium, Dharamsala",0,field,0,1,0.5088967971530249,0.6,4.0
+2026-05-31,2026,Gujarat Titans,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",1,field,0,1,0.5106382978723404,0.8,5.0
